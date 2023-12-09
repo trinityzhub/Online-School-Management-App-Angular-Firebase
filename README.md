@@ -7,6 +7,7 @@
 [<img src="https://github.com/AmitXShukla/AmitXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
 
 <h2>Online School Management App</h2>
+<h2><a href="https://amit-shukla.medium.com/online-school-management-app-8e58449427c0"> explanation!</a></h2>
 <h2><a href="https://www.youtube.com/playlist?list=PLp0TENYyY8lHnfxOOzZ_hTnPF8Hh3eKDo">Please watch Video Tutorials for complete installation and code review!</a></h2>
 <h2>This repository is updated to Angular 11.0.0</h2>
 Please don't forget to upgrade your Angular CLI to V11 and update tsconfig.json as well.
